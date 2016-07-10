@@ -1,0 +1,24 @@
+{
+  "name": "herocounters",
+  "version": "1.0.0",
+  "description": "Find Counters for Hots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomaswmanion/herocounters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomaswmanion/herocounters/issues"
+  },
+  "homepage": "https://github.com/thomaswmanion/herocounters#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "request": "^2.73.0",
+    "yargs": "^4.7.1"
+  }
+}
